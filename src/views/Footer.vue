@@ -22,7 +22,7 @@
 
     font-family: 'ONE-Mobile-Title';
     align-self: stretch;
-    margin-top: 300px;
+    margin-top: 10px;
     width: auto;
     letter-spacing: -0.16px;
     line-height: 150%;
